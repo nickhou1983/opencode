@@ -1,2 +1,4 @@
 packages/core/migration/**/snapshot.json linguist-generated
 packages/core/src/database/migration.gen.ts linguist-generated
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
